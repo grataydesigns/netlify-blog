@@ -1,6 +1,6 @@
 ---
-title: Creating a Gatsby theme
+title: Setting up Netlify CMS
 date: 2020-02-25T17:41:57.620Z
-description: Learn how to create a Gatsby theme
+description: Learn how to use Netlify CMS
 ---
-This is how you create a Gatsby theme
+Netlify CMS is cool.
